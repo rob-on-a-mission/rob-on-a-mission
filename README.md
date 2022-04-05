@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @rob-on-a-mission.
+- 👀 A mission to create a world for a better wellbeing.
+- 🌱 Facilitate learning without language and contextual barriers. Worldwide.
+- 📫 Love to collaborate on further development of our social learning platform.
+- 👀 And our methodology that's strongly linked to the OMOP CDM.
+- 🌱 Interested in deeptech, wellbeing, software engineering and development, data harmonisation, data engineering and data science. 
+- 💞️ To keep going I run a lot. Mostly trail running. Can't live without it. 
+- 👋 Did I say two life changers inspired me to build Health-Thing? It's an infinite source of energy.
